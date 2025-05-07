@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%EA%B2%8C%EC%9E%84%EC%9D%84+%EC%A6%90%EA%B2%A8%ED%95%98%EB%8A%94+%EA%B2%8C%EC%9E%84+%EA%B0%9C%EB%B0%9C%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
-# 포트 폴리오 [<img src="https://img.shields.io/badge/Notion-003366.svg?style=for-the-badge&logo=Notion&logoColor=000000" />](https://iron-jumpsuit-f09.notion.site/7c7a92e60fb647c981e8d543a72ac602) 
-
 # 기술 스택
 
 ## 언어
